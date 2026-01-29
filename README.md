@@ -8,3 +8,5 @@ Kaggle Titanic Veri Seti Çalışması
 https://www.kaggle.com/code/efeszen/notebook25c0325fbc
 Süpermarket Veri Seti Çalışması
 https://colab.research.google.com/drive/1vU0TMvncMlo7bRuBGfno4UYtQ318AdnB
+Predict Car Price
+https://colab.research.google.com/drive/15hhKEkNc9l1hWWtC6-lXCt-z7QzpHqMH?usp=sharing
